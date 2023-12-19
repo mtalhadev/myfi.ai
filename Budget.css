@@ -120,6 +120,7 @@
   text-transform: none;
   border-style: solid;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  --radius: 50px;
   background-image: none;
   margin: 51px auto 60px;
   padding: 19px 35px 19px 34px;

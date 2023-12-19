@@ -110,6 +110,7 @@
   font-weight: 700;
   text-transform: none;
   border-style: solid;
+  --radius: 50px;
   background-image: none;
   margin: 83px auto 60px;
   padding: 24px 52px 25px 51px;
@@ -182,10 +183,6 @@
     width: 540px;
     margin-left: auto;
     margin-right: auto;
-  }
-
-  .u-section-2 .u-btn-1 {
-    transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   }
 }
 
@@ -319,10 +316,11 @@
 @media (max-width: 575px) {
   .u-section-3 .u-group-elements-1 {
     margin-top: 10px;
-    margin-left: 50px;
+    margin-left: 55px;
   }
 
   .u-section-3 .u-group-elements-2 {
-    margin-right: 18px;
+    margin-top: -26px;
+    margin-left: 156px;
   }
 }

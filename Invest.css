@@ -218,6 +218,7 @@
   font-weight: 700;
   text-transform: none;
   border-style: solid;
+  --radius: 50px;
   background-image: none;
   margin: 60px auto;
   padding: 24px 52px 25px 51px;
